@@ -1,0 +1,2360 @@
+{
+  "Version": 76,
+  "Individuals": [
+    {
+      "Name": "Orlando 2006, 42 years, 72 kg, male",
+      "Seed": -1853620515,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 42.0,
+          "Unit": "year(s)"
+        },
+        "Weight": {
+          "Value": 72.0,
+          "Unit": "kg"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Molecules": [
+        {
+          "Name": "CYP2D6",
+          "Type": "Enzyme",
+          "MembraneLocation": "Apical",
+          "TissueLocation": "Intracellular",
+          "IntracellularVascularEndoLocation": "Endosomal",
+          "Expression": [
+            {
+              "Name": "Brain",
+              "Value": 0.00768702814
+            },
+            {
+              "Name": "Gonads",
+              "Value": 0.768702814
+            },
+            {
+              "Name": "Kidney",
+              "Value": 0.0208304736
+            },
+            {
+              "Name": "Periportal",
+              "Value": 1.0
+            },
+            {
+              "Name": "Pericentral",
+              "Value": 1.0
+            },
+            {
+              "Name": "Lung",
+              "Value": 0.0223404255
+            },
+            {
+              "Name": "SmallIntestine",
+              "Value": 0.0909402883
+            },
+            {
+              "Name": "Duodenum",
+              "Value": 0.0909402883
+            },
+            {
+              "Name": "UpperJejunum",
+              "Value": 0.0909402883
+            },
+            {
+              "Name": "LowerJejunum",
+              "Value": 0.0909402883
+            },
+            {
+              "Name": "UpperIleum",
+              "Value": 0.0909402883
+            },
+            {
+              "Name": "LowerIleum",
+              "Value": 0.0909402883
+            }
+          ],
+          "Ontogeny": {
+            "Name": "CYP2D6"
+          }
+        },
+        {
+          "Name": "CYP1A2",
+          "Type": "Enzyme",
+          "MembraneLocation": "Apical",
+          "TissueLocation": "Intracellular",
+          "IntracellularVascularEndoLocation": "Endosomal",
+          "Expression": [
+            {
+              "Name": "Gonads",
+              "Value": 0.00029559748428
+            },
+            {
+              "Name": "Kidney",
+              "Value": 4.4025157233E-06
+            },
+            {
+              "Name": "Periportal",
+              "Value": 1.0
+            },
+            {
+              "Name": "Pericentral",
+              "Value": 1.0
+            },
+            {
+              "Name": "Lung",
+              "Value": 2.4947589099E-05
+            }
+          ],
+          "Ontogeny": {
+            "Name": "CYP1A2"
+          }
+        },
+        {
+          "Name": "CYP2E1",
+          "Type": "Enzyme",
+          "MembraneLocation": "Apical",
+          "TissueLocation": "Intracellular",
+          "IntracellularVascularEndoLocation": "Endosomal",
+          "Expression": [
+            {
+              "Name": "Brain",
+              "Value": 0.00069717257788
+            },
+            {
+              "Name": "Gonads",
+              "Value": 0.0011140006271
+            },
+            {
+              "Name": "Kidney",
+              "Value": 0.0004242055368
+            },
+            {
+              "Name": "Periportal",
+              "Value": 1.0
+            },
+            {
+              "Name": "Pericentral",
+              "Value": 1.0
+            },
+            {
+              "Name": "Lung",
+              "Value": 0.00063815267711
+            },
+            {
+              "Name": "SmallIntestine",
+              "Value": 0.0081152363563
+            },
+            {
+              "Name": "Duodenum",
+              "Value": 0.0081152363563
+            },
+            {
+              "Name": "UpperJejunum",
+              "Value": 0.0081152363563
+            },
+            {
+              "Name": "LowerJejunum",
+              "Value": 0.0081152363563
+            },
+            {
+              "Name": "UpperIleum",
+              "Value": 0.0081152363563
+            },
+            {
+              "Name": "LowerIleum",
+              "Value": 0.0081152363563
+            }
+          ],
+          "Ontogeny": {
+            "Name": "CYP2E1"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Rasmussen 1997, 23 years, male",
+      "Seed": -1853589468,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 23.0,
+          "Unit": "year(s)"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Molecules": [
+        {
+          "Name": "CYP2D6",
+          "Type": "Enzyme",
+          "MembraneLocation": "Apical",
+          "TissueLocation": "Intracellular",
+          "IntracellularVascularEndoLocation": "Endosomal",
+          "Expression": [
+            {
+              "Name": "Brain",
+              "Value": 0.00768702814
+            },
+            {
+              "Name": "Gonads",
+              "Value": 0.768702814
+            },
+            {
+              "Name": "Kidney",
+              "Value": 0.0208304736
+            },
+            {
+              "Name": "Periportal",
+              "Value": 1.0
+            },
+            {
+              "Name": "Pericentral",
+              "Value": 1.0
+            },
+            {
+              "Name": "Lung",
+              "Value": 0.0223404255
+            },
+            {
+              "Name": "SmallIntestine",
+              "Value": 0.0909402883
+            },
+            {
+              "Name": "Duodenum",
+              "Value": 0.0909402883
+            },
+            {
+              "Name": "UpperJejunum",
+              "Value": 0.0909402883
+            },
+            {
+              "Name": "LowerJejunum",
+              "Value": 0.0909402883
+            },
+            {
+              "Name": "UpperIleum",
+              "Value": 0.0909402883
+            },
+            {
+              "Name": "LowerIleum",
+              "Value": 0.0909402883
+            }
+          ],
+          "Ontogeny": {
+            "Name": "CYP2D6"
+          }
+        },
+        {
+          "Name": "CYP1A2",
+          "Type": "Enzyme",
+          "MembraneLocation": "Apical",
+          "TissueLocation": "Intracellular",
+          "IntracellularVascularEndoLocation": "Endosomal",
+          "Expression": [
+            {
+              "Name": "Gonads",
+              "Value": 0.00029559748428
+            },
+            {
+              "Name": "Kidney",
+              "Value": 4.4025157233E-06
+            },
+            {
+              "Name": "Periportal",
+              "Value": 1.0
+            },
+            {
+              "Name": "Pericentral",
+              "Value": 1.0
+            },
+            {
+              "Name": "Lung",
+              "Value": 2.4947589099E-05
+            }
+          ],
+          "Ontogeny": {
+            "Name": "CYP1A2"
+          }
+        },
+        {
+          "Name": "CYP2E1",
+          "Type": "Enzyme",
+          "MembraneLocation": "Apical",
+          "TissueLocation": "Intracellular",
+          "IntracellularVascularEndoLocation": "Endosomal",
+          "Expression": [
+            {
+              "Name": "Brain",
+              "Value": 0.00069717257788
+            },
+            {
+              "Name": "Gonads",
+              "Value": 0.0011140006271
+            },
+            {
+              "Name": "Kidney",
+              "Value": 0.0004242055368
+            },
+            {
+              "Name": "Periportal",
+              "Value": 1.0
+            },
+            {
+              "Name": "Pericentral",
+              "Value": 1.0
+            },
+            {
+              "Name": "Lung",
+              "Value": 0.00063815267711
+            },
+            {
+              "Name": "SmallIntestine",
+              "Value": 0.0081152363563
+            },
+            {
+              "Name": "Duodenum",
+              "Value": 0.0081152363563
+            },
+            {
+              "Name": "UpperJejunum",
+              "Value": 0.0081152363563
+            },
+            {
+              "Name": "LowerJejunum",
+              "Value": 0.0081152363563
+            },
+            {
+              "Name": "UpperIleum",
+              "Value": 0.0081152363563
+            },
+            {
+              "Name": "LowerIleum",
+              "Value": 0.0081152363563
+            }
+          ],
+          "Ontogeny": {
+            "Name": "CYP2E1"
+          }
+        }
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Fluvoxamine",
+      "IsSmallMolecule": true,
+      "Lipophilicity": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.5726507829,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.23,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Claassen et al., Review of the animal pharmacology and pharmacokinetics of fluvoxamine. Br. J. Clin. Pharmacol. 15, 349S-355S (1983)."
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 14.66,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Fitted",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 2.7380788903E-06,
+              "Unit": "dm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 9.4,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Fit",
+          "Molecule": "CYP1A2",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 45.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 0.0073460807948,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.0155447966,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Miura2007",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.69,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 76.3,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 110.5561921693,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "4% Urine",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "MixedInhibition",
+          "DataSource": "Karjalainen2008/Yao2001",
+          "Molecule": "CYP1A2",
+          "Parameters": [
+            {
+              "Name": "Ki_c",
+              "Value": 10.0,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Karjalainen et al. In vitro inhibition of CYP1A2 by model inhibitors, anti-inflammatory analgesics and female sex steroids: predictability of in vivo interactions. Basic Clin. Pharmacol. Toxicol. 103, 157–65 (2008) and Yao, C. et al. Fluvoxamine-theophylline interaction: gap between in vitro and in vivo inhibition constants toward cytochrome P4501A2. Clin. Pharmacol. Ther. 70, 415–24 (2001)"
+              }
+            },
+            {
+              "Name": "Ki_u",
+              "Value": 10.0,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Karjalainen et al. In vitro inhibition of CYP1A2 by model inhibitors, anti-inflammatory analgesics and female sex steroids: predictability of in vivo interactions. Basic Clin. Pharmacol. Toxicol. 103, 157–65 (2008) and Yao, C. et al. Fluvoxamine-theophylline interaction: gap between in vitro and in vivo inhibition constants toward cytochrome P4501A2. Clin. Pharmacol. Ther. 70, 415–24 (2001)"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Olesen2000/Yao2001",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 1.6,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Olesen et al. Fluvoxamine-Clozapine drug interaction: inhibition in vitro of five cytochrome P450 isoforms involved in clozapine metabolism. J. Clin. Psychopharmacol. 20, 35–42 (2000) and Yao, C. et al. Fluvoxamine-theophylline interaction: gap between in vitro and in vivo inhibition constants toward cytochrome P4501A2. Clin. Pharmacol. Ther. 70, 415–24 (2001)"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Schmitt",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "F",
+          "Value": 3.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 318.335,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "Theophylline",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Hansch 1995",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 0.4130705111,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.28,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 8.33,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "InVitro",
+                "Description": "Sigma Aldrich"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "InVitro",
+                "Description": "Sigma Aldrich"
+              }
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "fitted",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 5.4546043641E-06,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Final_Fit"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Acid",
+          "Pka": 8.77,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "Other",
+            "Description": "Merck Index"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 13.5,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "Other",
+            "Description": "Merck Index"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 11.5,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "Other",
+            "Description": "Merck Index"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Ha 1995",
+          "Molecule": "CYP1A2",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 7.3167,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.23,
+              "Unit": "mmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 6.4808179194,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Ha 1995",
+          "Molecule": "CYP2E1",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 68.67,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 15.3,
+              "Unit": "mmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 103.4014862368,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 0.2228535918,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Rasmussen 1997, DDI - interindividual variability",
+          "Molecule": "CYP1A2",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 7.3167,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.23,
+              "Unit": "mmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 16.01,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - PK-Sim Standard",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 180.17,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "DrugBank"
+          }
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "Solution",
+      "FormulationType": "Formulation_Dissolved"
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 36.64,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 2.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 36.64,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 48.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 10.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 12.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Orlando 2006, theophylline DDI, 4 mg/kg SD, D6",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 3.21,
+                  "Unit": "mg/kg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 121.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Rasmussen 1997, fluvoxamine, 50 mg QD (D1), 100 mg QD (D2-D6)",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 36.64,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 73.28,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 6.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Rasmussen 1997, theophylline DDI, 257 mg SD, D4",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 257.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 72.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Orlando 2006, theophylline control, 4 mg/kg SD",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 3.21,
+                  "Unit": "mg/kg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Rasmussen 1997, theophylline control, 257 mg SD",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 257.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "Orlando 2006, 4 mg/kg SD, theophylline control",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Orlando 2006_4mgkg_Theophylline_Alone"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 50.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Orlando 2006, theophylline control, 4 mg/kg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Theophylline|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Orlando 2006, 42 years, 72 kg, male",
+      "Compounds": [
+        {
+          "Name": "Theophylline",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP1A2-Ha 1995",
+              "MoleculeName": "CYP1A2"
+            },
+            {
+              "Name": "CYP2E1-Ha 1995",
+              "MoleculeName": "CYP2E1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Orlando 2006, theophylline control, 4 mg/kg SD",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Orlando 2006, 4 mg/kg SD, theophylline control-Theophylline-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Orlando 2006, 4 mg/kg SD, theophylline control|Organism|PeripheralVenousBlood|Theophylline|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#953734",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Orlando 2006_4mgkg_NA_NA_Theophylline_Alone-Theophylline-Peripheral Venous Blood-Plasma-Conc  ",
+              "X": "Orlando 2006_4mgkg_Theophylline_Alone|Time  ",
+              "Y": "Orlando 2006_4mgkg_Theophylline_Alone|ObservedData|Peripheral Venous Blood|Plasma|Theophylline|Conc  ",
+              "CurveOptions": {
+                "Color": "#953734",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "OriginText": "Fluvoxamine-Theophylline-DDI\nOrlando 2006, 4 mg/kg SD, theophylline control\n2019-11-18 10:42"
+        }
+      ]
+    },
+    {
+      "Name": "Orlando 2006, 4 mg/kg SD, theophylline with fluvoxamine",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Orlando 2006_4mgkg_Theophylline_DDI"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 180.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Orlando 2006, theophylline DDI, 4 mg/kg SD, D6|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Theophylline|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Orlando 2006, 42 years, 72 kg, male",
+      "Compounds": [
+        {
+          "Name": "Fluvoxamine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP2D6-Miura2007",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP1A2-Fit",
+              "MoleculeName": "CYP1A2"
+            },
+            {
+              "Name": "Glomerular Filtration-4% Urine"
+            }
+          ],
+          "Protocol": {
+            "Name": "Orlando 2006, fluvoxamine, 50 mg QD (D1-D6), 50 mg BID (D3-D8)",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Theophylline",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP1A2-Ha 1995",
+              "MoleculeName": "CYP1A2"
+            },
+            {
+              "Name": "CYP2E1-Ha 1995",
+              "MoleculeName": "CYP2E1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Orlando 2006, theophylline DDI, 4 mg/kg SD, D6",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 120.0,
+              "Max": 180.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Orlando 2006_4mgkg_NA_NA_Theophylline_DDI-Theophylline-Peripheral Venous Blood-Plasma-Conc ",
+              "X": "Orlando 2006_4mgkg_Theophylline_DDI|Time ",
+              "Y": "Orlando 2006_4mgkg_Theophylline_DDI|ObservedData|Peripheral Venous Blood|Plasma|Theophylline|Conc ",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Orlando 2006, 4 mg/kg SD, theophylline with fluvoxamine-Theophylline-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Orlando 2006, 4 mg/kg SD, theophylline with fluvoxamine|Organism|PeripheralVenousBlood|Theophylline|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "OriginText": "Fluvoxamine-Theophylline-DDI\nOrlando 2006, 4 mg/kg SD, thophylline with fluvoxamine\n2019-11-18 09:32"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP1A2-Karjalainen2008/Yao2001",
+          "MoleculeName": "CYP1A2",
+          "CompoundName": "Fluvoxamine"
+        }
+      ]
+    },
+    {
+      "Name": "Rasmussen 1997, 257 mg SD, theophylline control",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Rasmussen 1997_257mgSD_non-smoker_Theophylline_Alone"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 50.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Rasmussen 1997, theophylline control, 257 mg SD|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Theophylline|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Rasmussen 1997, 23 years, male",
+      "Compounds": [
+        {
+          "Name": "Theophylline",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP1A2-Rasmussen 1997, DDI - interindividual variability",
+              "MoleculeName": "CYP2E1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Rasmussen 1997, theophylline control, 257 mg SD",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Rasmussen 1997, 257 mg SD, theophylline control-Theophylline-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Rasmussen 1997, 257 mg SD, theophylline control|Organism|PeripheralVenousBlood|Theophylline|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#953734",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Rasmussen 1997_257mgSD_NA_NO_Theophylline_Alone-Theophylline-Peripheral Venous Blood-Plasma-Conc  ",
+              "X": "Rasmussen 1997_257mgSD_non-smoker_Theophylline_Alone|Time  ",
+              "Y": "Rasmussen 1997_257mgSD_non-smoker_Theophylline_Alone|ObservedData|Peripheral Venous Blood|Plasma|Theophylline|Conc  ",
+              "CurveOptions": {
+                "Color": "#953734",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "OriginText": "Fluvoxamine-Theophylline-DDI\nRasmussen 1997, 257 mg SD, theophylline control\n2019-11-18 10:43"
+        }
+      ]
+    },
+    {
+      "Name": "Rasmussen 1997, 257 mg SD, theophylline with fluvoxamine",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Rasmussen 1997_257mgSD_non-smoker_Theophylline_DDI"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 180.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Rasmussen 1997, fluvoxamine, 50 mg QD (D1), 100 mg QD (D2-D6)|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Rasmussen 1997, fluvoxamine, 50 mg QD (D1), 100 mg QD (D2-D6)|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Rasmussen 1997, fluvoxamine, 50 mg QD (D1), 100 mg QD (D2-D6)|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Rasmussen 1997, fluvoxamine, 50 mg QD (D1), 100 mg QD (D2-D6)|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Rasmussen 1997, fluvoxamine, 50 mg QD (D1), 100 mg QD (D2-D6)|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Rasmussen 1997, fluvoxamine, 50 mg QD (D1), 100 mg QD (D2-D6)|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Rasmussen 1997, fluvoxamine, 50 mg QD (D1), 100 mg QD (D2-D6)|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Rasmussen 1997, theophylline DDI, 257 mg SD, D4|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Fluvoxamine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Theophylline|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Rasmussen 1997, 23 years, male",
+      "Compounds": [
+        {
+          "Name": "Fluvoxamine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP2D6-Miura2007",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP1A2-Fit",
+              "MoleculeName": "CYP1A2"
+            },
+            {
+              "Name": "Glomerular Filtration-4% Urine"
+            }
+          ],
+          "Protocol": {
+            "Name": "Rasmussen 1997, fluvoxamine, 50 mg QD (D1), 100 mg QD (D2-D6)",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Theophylline",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP1A2-Rasmussen 1997, DDI - interindividual variability",
+              "MoleculeName": "CYP1A2"
+            },
+            {
+              "Name": "CYP2E1-Ha 1995",
+              "MoleculeName": "CYP2E1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Rasmussen 1997, theophylline DDI, 257 mg SD, D4",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 70.0,
+              "Max": 180.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Rasmussen 1997_257mgSD_NA_NO_Theophylline_DDI-Theophylline-Peripheral Venous Blood-Plasma-Conc ",
+              "X": "Rasmussen 1997_257mgSD_non-smoker_Theophylline_DDI|Time ",
+              "Y": "Rasmussen 1997_257mgSD_non-smoker_Theophylline_DDI|ObservedData|Peripheral Venous Blood|Plasma|Theophylline|Conc ",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Rasmussen 1997, 257 mg SD, theophylline with fluvoxamine-Theophylline-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Rasmussen 1997, 257 mg SD, theophylline with fluvoxamine|Organism|PeripheralVenousBlood|Theophylline|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "OriginText": "Fluvoxamine-Theophylline-DDI\nRasmussen 1997, 257 mg SD, theophylline with fluvoxamine\n2019-11-18 10:38"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP1A2-Karjalainen2008/Yao2001",
+          "MoleculeName": "CYP1A2",
+          "CompoundName": "Fluvoxamine"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "Orlando 2006_4mgkg_Theophylline_DDI",
+      "ExtendedProperties": [
+        {
+          "Name": "Source",
+          "Value": "Z:\\projects\\pbpk_ddi\\Fluvoxamine\\obs_data\\theophylline\\Orlando 2006_4mgkg_NA_NA_Theophylline_DDI.csv.Sheet1"
+        },
+        {
+          "Name": "File",
+          "Value": "Orlando 2006_4mgkg_NA_NA_Theophylline_DDI"
+        },
+        {
+          "Name": "Sheet",
+          "Value": "Sheet1"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Theophylline"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Conc ",
+          "RelatedColumns": [
+            {
+              "Name": "SD ",
+              "QuantityInfo": {
+                "Name": "SD ",
+                "Path": "Orlando 2006_4mgkg_Theophylline_DDI|ObservedData|Peripheral Venous Blood|Plasma|Theophylline|SD "
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "Date": "2018-11-07T15:23:03.5705602+01:00",
+                "Source": "Orlando 2006_4mgkg_NA_NA_Theophylline_DDI.Sheet1.SD [ng/ml]",
+                "MolWeight": 180.17
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Name": "Conc ",
+            "Path": "Orlando 2006_4mgkg_Theophylline_DDI|ObservedData|Peripheral Venous Blood|Plasma|Theophylline|Conc "
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "Date": "2018-11-07T15:23:03.5705602+01:00",
+            "Source": "Orlando 2006_4mgkg_NA_NA_Theophylline_DDI.Sheet1.Conc [ng/ml]",
+            "MolWeight": 180.17
+          },
+          "Values": [
+            1.93073881,
+            4.012091,
+            6.43574762,
+            6.652408,
+            6.43574762,
+            6.096362,
+            5.827239,
+            5.38858557,
+            4.953067,
+            4.36488056,
+            2.94258928,
+            2.038222,
+            1.36994743
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time ",
+        "QuantityInfo": {
+          "Name": "Time ",
+          "Path": "Orlando 2006_4mgkg_Theophylline_DDI|Time ",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined",
+          "Date": "2018-11-07T15:23:03.5705602+01:00",
+          "Source": "Orlando 2006_4mgkg_NA_NA_Theophylline_DDI.Sheet1.Time [h]"
+        },
+        "Values": [
+          121.090576,
+          121.211349,
+          121.54348,
+          122.419083,
+          123.173912,
+          123.989128,
+          124.894928,
+          127.09903,
+          128.971008,
+          133.0169,
+          145.0338,
+          156.93,
+          168.9771
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Rasmussen 1997_257mgSD_non-smoker_Theophylline_DDI",
+      "ExtendedProperties": [
+        {
+          "Name": "Source",
+          "Value": "Z:\\projects\\pbpk_ddi\\Fluvoxamine\\obs_data\\theophylline\\Rasmussen 1997_257mgSD_NA_NO_Theophylline_DDI.csv.Sheet1"
+        },
+        {
+          "Name": "File",
+          "Value": "Rasmussen 1997_257mgSD_NA_NO_Theophylline_DDI"
+        },
+        {
+          "Name": "Sheet",
+          "Value": "Sheet1"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Theophylline"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Conc ",
+          "QuantityInfo": {
+            "Name": "Conc ",
+            "Path": "Rasmussen 1997_257mgSD_non-smoker_Theophylline_DDI|ObservedData|Peripheral Venous Blood|Plasma|Theophylline|Conc "
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "Date": "2018-11-07T15:23:34.4183719+01:00",
+            "Source": "Rasmussen 1997_257mgSD_NA_NO_Theophylline_DDI.Sheet1.Conc [mg/L]",
+            "MolWeight": 180.17
+          },
+          "Values": [
+            0.0140191652,
+            4.706581,
+            5.886041,
+            5.598161,
+            5.267694,
+            4.886929,
+            4.43704033,
+            4.11615753,
+            3.72348428,
+            2.41707253,
+            1.91733646,
+            1.0749712,
+            0.5156902,
+            0.241229862
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "µg/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time ",
+        "QuantityInfo": {
+          "Name": "Time ",
+          "Path": "Rasmussen 1997_257mgSD_non-smoker_Theophylline_DDI|Time ",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined",
+          "Date": "2018-11-07T15:23:34.4183719+01:00",
+          "Source": "Rasmussen 1997_257mgSD_NA_NO_Theophylline_DDI.Sheet1.Time [h]"
+        },
+        "Values": [
+          72.03104,
+          73.17939,
+          73.83116,
+          74.76226,
+          76.03476,
+          78.0211,
+          80.22471,
+          82.0869,
+          84.0422058,
+          96.1155,
+          104.1229,
+          119.8895,
+          143.8187,
+          167.779
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Rasmussen 1997_257mgSD_non-smoker_Theophylline_Alone",
+      "ExtendedProperties": [
+        {
+          "Name": "Source",
+          "Value": "C:\\Users\\Laura Fuhr\\Desktop\\Clari obs data\\Rasmussen 1997_257mgSD_NA_NO_Theophylline_Alone.xlsx.Rasmussen 1997_257mgSD_NA_NO_"
+        },
+        {
+          "Name": "File",
+          "Value": "Rasmussen 1997_257mgSD_NA_NO_Theophylline_Alone"
+        },
+        {
+          "Name": "Sheet",
+          "Value": "Rasmussen 1997_257mgSD_NA_NO_"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Theophylline"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Conc  ",
+          "QuantityInfo": {
+            "Name": "Conc  ",
+            "Path": "Rasmussen 1997_257mgSD_non-smoker_Theophylline_Alone|ObservedData|Peripheral Venous Blood|Plasma|Theophylline|Conc  "
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "Date": "2019-11-18T10:44:40.2742874+01:00",
+            "Source": "Rasmussen 1997_257mgSD_NA_NO_Theophylline_Alone.Rasmussen 1997_257mgSD_NA_NO_.Conc  [µg/ml]",
+            "MolWeight": 180.17
+          },
+          "Values": [
+            0.0315039866,
+            3.92943549,
+            5.072596,
+            4.893597,
+            4.218428,
+            3.4433732,
+            2.7605648,
+            2.29509544,
+            1.84656239,
+            0.560813367,
+            0.2699397,
+            0.0554449745
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "µg/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time  ",
+        "QuantityInfo": {
+          "Name": "Time  ",
+          "Path": "Rasmussen 1997_257mgSD_non-smoker_Theophylline_Alone|Time  ",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined",
+          "Date": "2019-11-18T10:44:40.2742874+01:00",
+          "Source": "Rasmussen 1997_257mgSD_NA_NO_Theophylline_Alone.Rasmussen 1997_257mgSD_NA_NO_.Time  [h]"
+        },
+        "Values": [
+          0.0,
+          0.96572876,
+          1.744545,
+          2.64797974,
+          4.20560455,
+          5.91899872,
+          8.006233,
+          9.96885,
+          11.9315033,
+          23.8006058,
+          31.9937973,
+          47.9128036
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Orlando 2006_4mgkg_Theophylline_Alone",
+      "ExtendedProperties": [
+        {
+          "Name": "Source",
+          "Value": "C:\\Users\\Laura Fuhr\\Desktop\\Clari obs data\\Orlando 2006_4mgkg_NA_NA_Theophylline_Alone.xlsx.Orlando 2006_4mgkg_NA_NA_Theo"
+        },
+        {
+          "Name": "File",
+          "Value": "Orlando 2006_4mgkg_NA_NA_Theophylline_Alone"
+        },
+        {
+          "Name": "Sheet",
+          "Value": "Orlando 2006_4mgkg_NA_NA_Theo"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Theophylline"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Conc  ",
+          "RelatedColumns": [
+            {
+              "Name": "SD  ",
+              "QuantityInfo": {
+                "Name": "SD  ",
+                "Path": "Orlando 2006_4mgkg_Theophylline_Alone|ObservedData|Peripheral Venous Blood|Plasma|Theophylline|SD  "
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "Date": "2019-11-18T10:41:35.7939367+01:00",
+                "Source": "Orlando 2006_4mgkg_NA_NA_Theophylline_Alone.Orlando 2006_4mgkg_NA_NA_Theo.SD  [ng/ml]",
+                "MolWeight": 180.17
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                866.983948,
+                345.152344,
+                137.407852
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Name": "Conc  ",
+            "Path": "Orlando 2006_4mgkg_Theophylline_Alone|ObservedData|Peripheral Venous Blood|Plasma|Theophylline|Conc  "
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "Date": "2019-11-18T10:41:35.7939367+01:00",
+            "Source": "Orlando 2006_4mgkg_NA_NA_Theophylline_Alone.Orlando 2006_4mgkg_NA_NA_Theo.Conc  [mg/l]",
+            "MolWeight": 180.17
+          },
+          "Values": [
+            1.24790347,
+            2.43432188,
+            4.35176468,
+            5.32410669,
+            6.11473846,
+            5.80972767,
+            5.32410669,
+            4.8062,
+            4.02418,
+            3.33912158,
+            2.49364877,
+            0.969120264,
+            0.398800373,
+            0.166097969
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time  ",
+        "QuantityInfo": {
+          "Name": "Time  ",
+          "Path": "Orlando 2006_4mgkg_Theophylline_Alone|Time  ",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined",
+          "Date": "2019-11-18T10:41:35.7939367+01:00",
+          "Source": "Orlando 2006_4mgkg_NA_NA_Theophylline_Alone.Orlando 2006_4mgkg_NA_NA_Theo.Time  [h]"
+        },
+        "Values": [
+          0.120773315,
+          0.211349487,
+          0.4227066,
+          0.5434799,
+          1.358696,
+          2.02294922,
+          3.01931763,
+          4.045891,
+          6.09902954,
+          8.031403,
+          12.077301,
+          23.9734058,
+          36.0205078,
+          48.0071869
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ],
+  "SimulationClassifications": [
+    {
+      "Name": "Theophylline Control",
+      "Classifiables": [
+        "Orlando 2006, 4 mg/kg SD, theophylline control",
+        "Rasmussen 1997, 257 mg SD, theophylline control"
+      ]
+    },
+    {
+      "Name": "Theophylline + Fluvoxamine DDI",
+      "Classifiables": [
+        "Orlando 2006, 4 mg/kg SD, theophylline with fluvoxamine",
+        "Rasmussen 1997, 257 mg SD, theophylline with fluvoxamine"
+      ]
+    }
+  ]
+}
